@@ -23,7 +23,7 @@ Install [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) and do st
 ## Alternative:
 If you're running on Linux, or non-admin account on windows you'll want to ensure `/ComfyUI/custom_nodes` and `comfyui_controlnet_aux` has write permissions.
 
-There is now a **install.bat** you can run to install to portable if detected. Otherwise it will default to system and assume you followed ConfyUI's manual installation steps. 
+There is now a **install.bat** you can run to install to portable if detected. Otherwise it will default to system and assume you followed ComfyUI's manual installation steps. 
 
 If you can't run **install.bat** (e.g. you are a Linux user). Open the CMD/Shell and do the following:
   - Navigate to your `/ComfyUI/custom_nodes/` folder
